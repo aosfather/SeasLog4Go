@@ -2,7 +2,7 @@
 SeasLog for Golang
 
 Examples:
-'''Go
+```Go
    import （seaslog 'github.com/SeasX/SeasLog4Go'）
 
    //1、config the logger
@@ -10,4 +10,4 @@ Examples:
    seaslog.ConfigLogger(config)
    logger:=seaslog.GetLogger("firstModule")
    logger.Info("the first line for %s,%s","test","done")
-'''
+```

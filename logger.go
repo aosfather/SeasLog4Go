@@ -1,5 +1,6 @@
 package SeasLog4Go
 
+//使用接口
 /**
   Logger 的配置
    1、文件路径
